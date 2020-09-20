@@ -1,0 +1,9 @@
+.places__website {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    max-width: 484px;
+
+    
+}

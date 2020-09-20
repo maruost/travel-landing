@@ -1,0 +1,14 @@
+.comments__quote {
+    position: relative;
+    max-width: 382px;
+    
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0 0 24px;
+
+    color: #FFFFFF;
+
+}

@@ -1,0 +1,22 @@
+.video__link {
+    text-decoration: none;
+    width: 583px;
+    margin-right: 18px;
+
+    
+}
+
+
+.video__link:last-child {
+    margin-right: 0;
+}
+
+.video__link:hover .video__item_kamchatka:after {
+    opacity: 0.8;
+    
+}
+
+.video__link:hover .video__item_observatory:after {
+    opacity: 0.8;
+    
+}

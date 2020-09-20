@@ -1,0 +1,112 @@
+@import url('./__subtitle/cover__subtitle.css');
+@import url('./__title/cover__title.css');
+@import url('./__margins/cover__margins.css');
+@import url('./__link/cover__link.css');
+@import url('./__link/cover__link_background.css');
+@import url('cover__text-box.css');
+
+
+
+
+.cover {
+    position: relative;
+    max-width: 1184px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 0;
+    
+   
+}
+
+.cover:hover .cover__link_background:after {
+    opacity: 0.8;
+}
+
+
+@media screen and (max-width: 1280px) {
+    
+    .cover__title {
+    top: 48.48%;
+    }
+
+    .cover__subtitle {
+        bottom: 5.5%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    
+    .cover__link {
+        padding-bottom: 53.77%;
+    }  
+
+
+    .cover__title {
+        top: 38%;
+        width: 514px;
+        margin-left: -257px;
+    }
+
+    .cover__subtitle {
+        bottom: 5%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover__link {
+        padding-bottom: 65.10%;
+    }
+}
+
+@media screen and (max-width: 690px) {
+    .cover__link {
+        padding-bottom: 72.53%;
+    }
+    .cover__title {
+            font-size: 32px;
+            line-height: 35px;
+            width: 230px;
+            margin-left: -115px;
+    }
+}
+
+
+@media screen and (max-width: 470px) {
+
+    /* .cover__link {
+        padding-bottom: 72.53%;
+    } */
+    .cover__title {
+        /* font-size: 32px;
+        line-height: 35px; */
+        width: 323px;
+        margin-left: -161.5px;
+    }
+
+    .cover__subtitle {
+        font-size: 14px;
+        line-height: 17px;
+        width: 323px;
+        margin-left: -161.5px;
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    .cover {
+        max-width: 375px;
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+    .cover-link {
+        padding-bottom: 67.5%;
+    }
+
+    .cover__title {
+        top: 30%;
+    }
+
+    
+}

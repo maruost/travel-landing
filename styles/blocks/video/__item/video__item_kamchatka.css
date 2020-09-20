@@ -1,0 +1,25 @@
+.video__item_kamchatka {
+    background-image: url('../../../../static/images/video/kamchatka.jpg');
+         
+    
+    
+           
+    }
+    
+    .video__item_kamchatka:after {
+        content: '';
+        background-color: #000000;
+        opacity: 0.5;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        transition: 0.5s ease;
+        overflow: hidden;
+        
+
+        
+        
+    }
+    

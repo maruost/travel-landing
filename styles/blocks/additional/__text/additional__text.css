@@ -1,0 +1,15 @@
+.additional__text {
+    position: absolute;
+    width: 248px;
+    left: 18px;
+    bottom: 30px;
+
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+    z-index: 1;
+    }

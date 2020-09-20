@@ -1,0 +1,12 @@
+.video__icon {
+    position: absolute;
+    top: 8.5%;
+    left: 6%;
+    width: 41px;
+    height: 41px;
+    
+    z-index: 1;
+
+}
+
+

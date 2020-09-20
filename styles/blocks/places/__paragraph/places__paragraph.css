@@ -1,0 +1,22 @@
+.places__paragraph {
+    position: relative;
+    padding: 0 0;
+    margin: 0 0 36px;
+    
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+
+    
+
+    color: #FFFFFF;
+
+    
+
+}
+
+.places__paragraph:last-child {
+    margin-bottom: 0;
+}

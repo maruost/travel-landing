@@ -1,0 +1,23 @@
+.additional__image-background_cherepovets {
+    position: relative;
+    background-image: url('../../../../static/images/additional/cherepovets.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 284px;
+    height: 330px;
+    border-radius: 5px;
+    
+}
+
+.additional__image-background_cherepovets:after {
+
+    content: '';
+    background-color: #000000;
+    opacity: 0.5;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+
+}

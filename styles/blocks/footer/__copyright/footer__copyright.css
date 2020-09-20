@@ -1,0 +1,15 @@
+.footer__copyright {
+position: relative;
+
+font-family: Inter, Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+text-align: right;
+
+margin: 0 0;
+padding: 0 0;
+color: #FFFFFF;
+
+}

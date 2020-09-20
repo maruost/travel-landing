@@ -1,0 +1,18 @@
+.main__cover {
+    margin: 0 auto 160px;
+    
+    
+}
+
+@media screen and (max-width: 768px) {
+    .main__cover {
+        margin: 0 auto 102px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .main__cover {
+        margin: 0 auto 64px;
+    }
+}
+

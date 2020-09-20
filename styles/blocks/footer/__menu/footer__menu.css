@@ -1,0 +1,15 @@
+.footer__menu {
+    max-width: 684px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding-inline-start: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    
+
+        
+
+}
+

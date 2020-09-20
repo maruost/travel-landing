@@ -1,0 +1,27 @@
+.cover__title {
+position: absolute;
+width: 950px;
+top: 274px;
+left: 50%;
+margin-left: -475px;
+margin-top: 0;
+margin-bottom: 0;
+
+
+
+
+font-family: Inter, Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 78px;
+text-align: center;
+z-index: 1;
+
+
+color: #FFFDFD;
+
+
+}
+
+

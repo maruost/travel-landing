@@ -1,0 +1,112 @@
+@import url('./__container/video__container.css');
+@import url('./__duration/video__duration.css');
+@import url('./__icon/video__icon.css');
+@import url('./__item/video__item.css');
+@import url('./__subtitle/video__subtitle.css');
+@import url('./__title/video__title.css');
+@import url('./__margins/video__margins.css');
+@import url('./__link/video__link.css');
+@import url('./__item/video__item_kamchatka.css');
+@import url('./__item/video__item_observatory.css');
+
+
+.video {
+    font-family: Inter, Arial, Helvetica, sans-serif;
+
+  
+
+}
+
+@media screen and (max-width: 1024px) {
+    .video__container {
+     max-width: 1184px;
+    } 
+
+    .video__link {
+        width: 456px;
+    }
+
+    .video__item {
+        padding-bottom: 63.16%;
+    }
+
+    .video__icon {
+    top: 10%;
+    
+    }
+
+    .video__duration {
+    top: 40%;
+    }
+
+    .video__title {
+    top: 44%;
+    }
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+    .video__item {
+        padding-bottom: 56.82%;
+
+    }
+    .video__icon {
+        top: 10%;
+        
+        }
+    
+        .video__duration {
+        top: 40%;
+        }
+    
+        .video__title {
+        top: 44%;
+        font-size: 24px;
+        line-height: 26px;
+        }
+    }
+
+@media screen and (max-width: 750px) {
+    .video__container {
+        flex-wrap: wrap;
+        justify-content: center;
+    } 
+
+    .video__link {
+        margin-right: 0;
+        margin-bottom: 8px;
+           
+    }
+}
+
+@media screen and (max-width: 375px) {
+
+    .video__item {
+        padding-bottom: 58.31%;
+    }
+    /* .video__container {
+        flex-wrap: wrap;
+    }  */
+
+    /* .video__link {
+        margin-right: 0;
+        margin-bottom: 8px;
+           
+    } */
+        
+    .video__link:last-child {
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .video__subtitle {
+        bottom: 0;
+    }
+
+    .video__item {
+        padding-bottom: 66.67%;
+    }
+}

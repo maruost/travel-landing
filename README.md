@@ -5,5 +5,5 @@
 - HTML5, CSS3,
 - классификация по БЭМ,
 - адаптивная верстка для разных устройств;
-- Flexbox, GridLayout;
+- Flexbox, Grid Layout.
 

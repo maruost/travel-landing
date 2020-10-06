@@ -6,9 +6,6 @@ display: grid;
 grid-gap: 60px 40px;
 grid-template-columns: 46.44% 49.19%;
 
-
-
-
 }
 
 .places__place:last-child {

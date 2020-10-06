@@ -5,19 +5,9 @@
     max-width: 1184px;
     position: relative;
     display: grid;
-    /* grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
-    grid-auto-rows: minmax(200px, auto); */
     grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
     grid-auto-rows: minmax(188px, auto);
     grid-gap: 16px;
-    
-
-    
-    
-
-       
-   
-    
     
 }
 

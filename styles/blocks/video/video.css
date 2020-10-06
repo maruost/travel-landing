@@ -86,15 +86,6 @@
     .video__item {
         padding-bottom: 58.31%;
     }
-    /* .video__container {
-        flex-wrap: wrap;
-    }  */
-
-    /* .video__link {
-        margin-right: 0;
-        margin-bottom: 8px;
-           
-    } */
         
     .video__link:last-child {
         margin-bottom: 0;

@@ -5,17 +5,13 @@
 @import url('./__link/cover__link_background.css');
 @import url('cover__text-box.css');
 
-
-
-
 .cover {
     position: relative;
     max-width: 1184px;
     margin-right: auto;
     margin-left: auto;
     padding: 0 0;
-    
-   
+
 }
 
 .cover:hover .cover__link_background:after {

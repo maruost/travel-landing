@@ -1,6 +1,5 @@
 .places__title {
     position: relative;
-    /* max-width: 457px; */
     font-family: Inter, Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 900;
@@ -9,8 +8,6 @@
     color: #FFFFFF;
     margin: 0 0;
     padding: 0 0;
-
-    /* grid-area: title; */
     
     
     }
